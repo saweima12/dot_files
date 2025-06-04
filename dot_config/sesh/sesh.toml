@@ -1,0 +1,20 @@
+[[session]]
+name = "MGR"
+path = "~/repos/graid-mgr"
+startup_command = "nv"
+
+[[session]]
+name = "GPURAID"
+path = "~/repos/gpuraid"
+startup_command = "nv"
+
+[[session]]
+name = "ANSIBLE-GRAID"
+path = "~/devops/ansible-graid/"
+startup_command = "nv"
+
+
+[[session]]
+name = "GRIAD-JENKINS"
+path = "~/devops/graid-jenkinsfile/"
+startup_command = "nv"

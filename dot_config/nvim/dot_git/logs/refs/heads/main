@@ -1,0 +1,26 @@
+0000000000000000000000000000000000000000 7daac0fd767402fe44b7dfa6b25954752c78db23 hong.chuang <hong.chuang@graidtech.com> 1751663324 +0000	clone: from github.com:saweima12/nvim-lazy.git
+7daac0fd767402fe44b7dfa6b25954752c78db23 76b2c00d87a5f856786f0b64a98e5d67c010da8e hong.chuang <hong.chuang@graidtech.com> 1751689266 +0000	commit: draft
+76b2c00d87a5f856786f0b64a98e5d67c010da8e dc3139f08901437d5ebb8d992c7a0e4efe9b23d8 hong.chuang <hong.chuang@graidtech.com> 1751689267 +0000	rebase (finish): refs/heads/main onto c2773c70412f085f7834b86864b6f9a093ddb247
+dc3139f08901437d5ebb8d992c7a0e4efe9b23d8 886172edaf5effe75668488b8bb1c3b1585994b0 hong.chuang <hong.chuang@graidtech.com> 1751689269 +0000	commit (amend): Customerize
+886172edaf5effe75668488b8bb1c3b1585994b0 03232638cc46770b8c321f95c6ed51fa4fa74526 hong.chuang <hong.chuang@graidtech.com> 1751689807 +0000	commit: draft
+03232638cc46770b8c321f95c6ed51fa4fa74526 7382f2f26dd4511c3e210bfa3c1803a04dec4ce1 hong.chuang <hong.chuang@graidtech.com> 1751689808 +0000	rebase (finish): refs/heads/main onto c2773c70412f085f7834b86864b6f9a093ddb247
+7382f2f26dd4511c3e210bfa3c1803a04dec4ce1 4610d01568660c0eca3a64987400001cd1cf027a hong.chuang <hong.chuang@graidtech.com> 1751689809 +0000	commit (amend): Customerize
+4610d01568660c0eca3a64987400001cd1cf027a 31de62a97f2b2ee974c09f8da4e0dbe6834a9bf6 hong.chuang <hong.chuang@graidtech.com> 1751692022 +0000	commit: draft
+31de62a97f2b2ee974c09f8da4e0dbe6834a9bf6 d0d2bf9e77048c7762ad08564b52003d9814f1cb hong.chuang <hong.chuang@graidtech.com> 1751692025 +0000	rebase (finish): refs/heads/main onto c2773c70412f085f7834b86864b6f9a093ddb247
+d0d2bf9e77048c7762ad08564b52003d9814f1cb ebe830fa596171067e32418384adbe34fd3e3e8e hong.chuang <hong.chuang@graidtech.com> 1751692026 +0000	commit (amend): Customerize
+ebe830fa596171067e32418384adbe34fd3e3e8e 37d38d408ca639200d6066bd6dc9e565638abc98 hong.chuang <hong.chuang@graidtech.com> 1751692888 +0000	commit: draft
+37d38d408ca639200d6066bd6dc9e565638abc98 bc2747c0f5bd605c734af32e56016354f106cf49 hong.chuang <hong.chuang@graidtech.com> 1751692889 +0000	rebase (finish): refs/heads/main onto c2773c70412f085f7834b86864b6f9a093ddb247
+bc2747c0f5bd605c734af32e56016354f106cf49 dfddd4c79ff0f91ef16e017457b64150682a750a hong.chuang <hong.chuang@graidtech.com> 1751692890 +0000	commit (amend): Customerize
+dfddd4c79ff0f91ef16e017457b64150682a750a 407b64024d8ef61df35df422ddef9b0686c84e5d hong.chuang <hong.chuang@graidtech.com> 1751731744 +0000	commit: draft
+407b64024d8ef61df35df422ddef9b0686c84e5d 595950171f3fdedb3de7973bf62c6a55fb65c3f1 hong.chuang <hong.chuang@graidtech.com> 1751731746 +0000	rebase (finish): refs/heads/main onto c2773c70412f085f7834b86864b6f9a093ddb247
+595950171f3fdedb3de7973bf62c6a55fb65c3f1 11c985759f31350be3d25195d7ee5087f704381f hong.chuang <hong.chuang@graidtech.com> 1751731747 +0000	commit (amend): Customerize
+11c985759f31350be3d25195d7ee5087f704381f f22e8869891e1b0e08c3b1899c0bf80be105c4a2 hong.chuang <hong.chuang@graidtech.com> 1751757679 +0000	commit: draft
+f22e8869891e1b0e08c3b1899c0bf80be105c4a2 6c55b3f86dbe486fd526bb946f8de7b6fdfa9a81 hong.chuang <hong.chuang@graidtech.com> 1751757681 +0000	rebase (finish): refs/heads/main onto c2773c70412f085f7834b86864b6f9a093ddb247
+6c55b3f86dbe486fd526bb946f8de7b6fdfa9a81 d438e7958ec3d15f65c5aaea9c2669cbe1231bf9 hong.chuang <hong.chuang@graidtech.com> 1751757682 +0000	commit (amend): Customerize
+d438e7958ec3d15f65c5aaea9c2669cbe1231bf9 b0b283dc64ad28599ddbd78c5655d10df828922c hong.chuang <hong.chuang@graidtech.com> 1751768100 +0000	commit: draft
+b0b283dc64ad28599ddbd78c5655d10df828922c def8ea6ed5644a2c295a924670798cb37d238675 hong.chuang <hong.chuang@graidtech.com> 1751768101 +0000	rebase (finish): refs/heads/main onto c2773c70412f085f7834b86864b6f9a093ddb247
+def8ea6ed5644a2c295a924670798cb37d238675 4984b10dca9129308a744538bbca0829c3b37e45 hong.chuang <hong.chuang@graidtech.com> 1751768104 +0000	commit (amend): Customerize
+4984b10dca9129308a744538bbca0829c3b37e45 eeb42866e35b073f963696f0dead6cbf2aa490cf hong.chuang <hong.chuang@graidtech.com> 1751768111 +0000	rebase (continue) (finish): refs/heads/main onto c2773c70412f085f7834b86864b6f9a093ddb247
+eeb42866e35b073f963696f0dead6cbf2aa490cf fb7f9a3fb067aaec662add04c5b747ce6e746164 hong.chuang <hong.chuang@graidtech.com> 1749054991 +0000	commit: draft
+fb7f9a3fb067aaec662add04c5b747ce6e746164 e00529a8b56137b81af87d883851105a88d4e834 hong.chuang <hong.chuang@graidtech.com> 1749054992 +0000	rebase (finish): refs/heads/main onto c2773c70412f085f7834b86864b6f9a093ddb247
+e00529a8b56137b81af87d883851105a88d4e834 b575b554c9bd6f11ada1cc285fdd71330b128aba hong.chuang <hong.chuang@graidtech.com> 1749054993 +0000	commit (amend): Customerize
